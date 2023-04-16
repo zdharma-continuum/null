@@ -7,6 +7,7 @@ An empty repository to aid zplugin's hooks-hacks. You can fork it to have a priv
 Example uses:
 
 When what's needed is an atclone'' hook to e.g. install a software (plus atpull'' hook to update it):
+
 ```
 # The invocation uses https://github.com/zdharma/null repo as a placeholder
 # for the atclone'' and atpull'' hooks
